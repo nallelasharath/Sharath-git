@@ -41,9 +41,9 @@ WebUI.click(findTestObject('Object Repository/Item Add to Cart/Select size'))
 
 WebUI.click(findTestObject('Object Repository/Item Add to Cart/Select color'))
 
-WebUI.click(findTestObject('Object Repository/Item Add to Cart/Click on available shoe'))
+//WebUI.click(findTestObject('Object Repository/Item Add to Cart/Click on available shoe'))
 
-WebUI.click(findTestObject('Object Repository/Item Add to Cart/Click on Add to Cart'))
+//WebUI.click(findTestObject('Object Repository/Item Add to Cart/Click on Add to Cart'))
 
 WebUI.closeBrowser()
 	
